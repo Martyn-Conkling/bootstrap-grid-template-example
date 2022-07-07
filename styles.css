@@ -1,0 +1,29 @@
+html, body{
+    margin: 0;
+}
+
+
+
+.my-container{
+    border: 10px solid green;
+    height: 100vh;
+   
+
+}
+
+.my-row{
+    border: 10px solid black;
+    height: 100%;
+
+}
+
+.my-col{
+    background-color: grey;
+    border: 1px solid red;
+}
+
+.half-height{
+    min-height: 50%;
+   
+    border: solid 1px gold;
+}
